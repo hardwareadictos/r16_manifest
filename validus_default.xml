@@ -52,6 +52,7 @@
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="gzosp" />
   <project path="packages/services/BuiltInPrintService" name="packages_services_BuiltInPrintService" remote="gzosp" />
   <project path="system/bt" name="system_bt" remote="gzosp" />
+  <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="gzosp" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
 
   <project path="hardware/qcom/audio" name="hardware_qcom_audio" groups="qcom,qcom_audio,pdk-qcom" remote="gzosp" />
