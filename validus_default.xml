@@ -59,6 +59,7 @@
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
   <project path="prebuilts/build-tools" name="prebuilts_build-tools" groups="pdk" remote="gzosp" />
   <project path="system/bt" name="system_bt" remote="gzosp" />
+  <project path="system/sepolicy" name="system_sepolicy" groups="pdk" remote="gzosp" />
   <project path="system/update_engine" name="system_update_engine" groups="pdk" remote="gzosp" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="gzosp" />
 
