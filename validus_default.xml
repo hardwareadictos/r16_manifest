@@ -42,6 +42,7 @@
   <project path="vendor/validus" name="vendor_validus" remote="val" />
 
   <!-- GZOSP -->
+  <project path="art" name="art" groups="pdk" remote="gzosp" />
   <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
   <project path="device/generic/goldfish" name="device_generic_goldfish" groups="pdk" remote="gzosp" />
   <project path="device/gzosp/sepolicy" name="device_gzosp_sepolicy" remote="gzosp" />
