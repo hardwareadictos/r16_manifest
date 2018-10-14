@@ -37,6 +37,7 @@
   <project path="frameworks/base" name="frameworks_base" remote="val" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="val" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="val" />
+  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" groups="pdk-fs" remote="val" />  
   <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="val" />
   <project path="system/core" name="system_core" groups="pdk" remote="val" />
   <project path="vendor/validus" name="vendor_validus" remote="val" />
